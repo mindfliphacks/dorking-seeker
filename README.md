@@ -15,5 +15,5 @@ S.E.E.K.E.R is a lightweight, Flask-based web tool that automatically generates 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mindfliphacks/dorking-seeker.git](https://github.com/mindfliphacks/dorking-seeker.git)
+   git clone https://github.com/mindfliphacks/dorking-seeker.git
    cd seeker
